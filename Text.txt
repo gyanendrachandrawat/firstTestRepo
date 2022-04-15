@@ -12,3 +12,4 @@ chenge in master on remote
 change to test if i can checkout to another branch by only commit not push.
 
 master -> new2 -> new22
+new22
